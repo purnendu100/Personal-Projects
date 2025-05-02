@@ -44,7 +44,7 @@ The objective of this project is to build a reliable AI model that can:
 ---
 
 ## About Me
-I am **Shuvendu Pritam Das**, a Data Science / ML Enthusiast with a passion for applying machine learning and deep learning techniques to solve real-world problems. With experience in developing predictive models, data analytics, and deep learning projects, I focus on building efficient solutions for healthcare, finance, and industrial applications. You can connect with me on:
-- **Email**: 23mt0389@iitism.ac.in
-- **LinkedIn**: [Shuvendu Pritam Das](https://www.linkedin.com/in/purnendu-pritam-das)
-- **GitHub**: [SPritamDas](https://github.com/purnendu100)
+I am **Purnendu Pritam Das**, a Data Science / ML Enthusiast with a passion for applying machine learning and deep learning techniques to solve real-world problems. With experience in developing predictive models, data analytics, and deep learning projects, I focus on building efficient solutions for healthcare, finance, and industrial applications. You can connect with me on:
+- **Email**: 22mm01004@iitbbs.ac.in
+- **LinkedIn**: [Purnendu Pritam Das](https://www.linkedin.com/in/purnendu-pritam-das)
+- **GitHub**: [purnendu100](https://github.com/purnendu100)
